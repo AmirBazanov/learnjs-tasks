@@ -1,0 +1,25 @@
+{
+  "name": "learnjs-tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmirBazanov/learnjs-tasks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/AmirBazanov/learnjs-tasks/issues"
+  },
+  "homepage": "https://github.com/AmirBazanov/learnjs-tasks#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
